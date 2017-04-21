@@ -1,7 +1,7 @@
-*** Data Science Specialization
+## Data Science Specialization
 
-* Uses R
+li Uses R
 
-* Nine courses
+li Nine courses
 
-* Goes from raw data to data products
+li Goes from raw data to data products
